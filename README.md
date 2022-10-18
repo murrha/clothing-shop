@@ -1,2 +1,12 @@
 # About this project
-An e-commerce website where a user can view diffent clothing products, sort them by category, add them to the cart, and checkout as a guest.
+This is one of the projects I intend to use as part of my portfolio projects. 
+
+After learning about fullstack development during my training, I wanted to create an e-commerce project that will not only help me with the fundamentals but will also push me beyond what I've done and really get a full grasp of the new technologies I've come across. 
+
+# Techstack
+* Java
+* SpringBoot
+* Angular
+* SQL
+
+
