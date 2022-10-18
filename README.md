@@ -7,6 +7,6 @@ After learning about fullstack development during my training, I wanted to creat
 * Java
 * SpringBoot
 * Angular
-* SQL
+* MySQL
 
 
