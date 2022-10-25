@@ -24,7 +24,7 @@ public class Category {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)	
-	@Column(name = "id")
+	@Column(name = "category_id")
 	private Long id;
 	
 	@Column(name = "name")
@@ -34,6 +34,7 @@ public class Category {
 	@OneToMany(cascade = CascadeType.ALL, mappedBy = "category")
 	private Set<Product> products;
 	
+
 	//for infinite json recursion error
 	@JsonManagedReference
 	public Set<Product> getProducts(){
